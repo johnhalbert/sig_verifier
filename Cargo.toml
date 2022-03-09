@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "svc-a",
+    "svc-b",
+]
